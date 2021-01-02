@@ -1,0 +1,18 @@
+html { 
+  background: url(https://www.semshred.com/wp-content/uploads/2018/08/HDD-on-blue-background-1024x683.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/*#formStri{
+  background: url(https://ak6.picdn.net/shutterstock/videos/3579296/thumb/1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+p{font-size: 30px; line-height: 30px}
+            div.demo{text-align: center; width: 200px; float: left}
+            div.demo > p{font-size: 20px}
